@@ -14,7 +14,6 @@ import { tocHighlight } from '/home/seth/Documents/Websites/cake-engine-dev/cake
 import { postNavSearch } from '/home/seth/Documents/Websites/cake-engine-dev/cake-engine-dev/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js';postNavSearch();
 import { copyLineLinks } from '/home/seth/Documents/Websites/cake-engine-dev/cake-engine-dev/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js';copyLineLinks();
 import { gatherFootnotes } from '/home/seth/Documents/Websites/cake-engine-dev/cake-engine-dev/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js';gatherFootnotes();
-import { reloadOnChange } from '/home/seth/Documents/Websites/cake-engine-dev/cake-engine-dev/.codedoc/node_modules/@codedoc/core/dist/es6/serve/reload.js';reloadOnChange();
 import { GithubSearch } from '/home/seth/Documents/Websites/cake-engine-dev/cake-engine-dev/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js';
 import { ToCToggle } from '/home/seth/Documents/Websites/cake-engine-dev/cake-engine-dev/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js';
 import { DarkModeSwitch } from '/home/seth/Documents/Websites/cake-engine-dev/cake-engine-dev/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js';
