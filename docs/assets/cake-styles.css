@@ -62,7 +62,6 @@ table tr:nth-child(1) {
   color: black;
 }
 #logoimage{
-/*  background-image: url(/cake-engine-dev/docs/assets/images/logo/cake_Logo.png);*/
   width: 100px;
   height: 100px;
   background-color: var(--batter-dark);
