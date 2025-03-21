@@ -1,4 +1,13 @@
-<img src="/docs/assets/images/logo/cake_Logo.png" id="logoimage">
+<img src="/docs/assets/images/logo/cake_Logo.png" style="
+width: 100px;
+height: 100px;
+background-color: var(--batter-dark);
+background-position: center;
+float: inline-end;
+margin-left: 50px;
+border-radius: 20px;
+">
+
 
 # Welcome to cakeEngine
 

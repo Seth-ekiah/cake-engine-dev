@@ -61,12 +61,3 @@ table tr:nth-child(1) {
 #forceTOC a{
   color: black;
 }
-#logoimage{
-  width: 100px;
-  height: 100px;
-  background-color: var(--batter-dark);
-  background-position: center;
-  float: inline-end;
-  margin-left: 50px;
-  border-radius: 20px;
-}
