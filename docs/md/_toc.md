@@ -23,6 +23,4 @@
 
 <br><br>
 
-<script src="/docs/assets/cake-copyright-maker.js"></script>
-
 <script src="/docs/assets/cake-banner.js"></script>
