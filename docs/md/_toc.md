@@ -10,6 +10,7 @@
 [&emsp;Documentation](/docs/)
 [&emsp;&emsp;Entity](/docs/entity)
 [&emsp;&emsp;Component](/docs/component)
+[&emsp;&emsp;&emsp;Transform](/docs/component/transform)
 [&emsp;&emsp;System](/docs/system)
 </span>
 
