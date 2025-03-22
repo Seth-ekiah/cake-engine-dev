@@ -56,6 +56,7 @@ function interpret(string) {
 		"public",
 		"xor_eq",
 		"bitand",
+		"size_t",
 		"and_eq",
 		"concept",
 		"alignof",

@@ -7,9 +7,10 @@
 
 <br class="empty"><span id="forceTOC">
 [Cake](/)
-[&emsp;Entity](/docs/entity)
-[&emsp;Component](/docs/component)
-[&emsp;System](/docs/system)
+[&emsp;Documentation](/docs/)
+[&emsp;&emsp;Entity](/docs/entity)
+[&emsp;&emsp;Component](/docs/component)
+[&emsp;&emsp;System](/docs/system)
 </span>
 
 <br><br>

@@ -21,6 +21,7 @@ hr{
 table{
  margin-left: unset;
  margin-right: unset;
+ width: 100%;
 }
 h1{
  color: var(--frosting-dark);

@@ -42,7 +42,15 @@ In an entity component system, components act as properties of each entity. Each
 		</td>
 	</tr>
 	<tr>
-		<td>Constructor([GameObject](/)*)
+		<td>bool
+		</td>
+		<td>[isEnabled](/)
+		</td>
+		<td>Flag to determine \if the Component is active. A disabled Component will \not be updated.
+		</td>
+	</tr>
+	<tr>
+		<td>Constructor([GameObject](/)\*)
 		</td>
 		<td>[Component](/docs/component)
 		</td>
@@ -55,14 +63,6 @@ In an entity component system, components act as properties of each entity. Each
 		<td>[~Component](/)
 		</td>
 		<td>Deconstructs the Component
-		</td>
-	</tr>
-	<tr>
-		<td>bool
-		</td>
-		<td>[isEnabled](/)
-		</td>
-		<td>Flag to determine \if the Component is active. A disabled component will \not be updated.
 		</td>
 	</tr>
 </table>
